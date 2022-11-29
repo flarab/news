@@ -2,11 +2,9 @@
 
 Crear interface en flutter que consuma los siguientes servicios.
 
-La aplicación debe listas los registros, crear registros que deben contener un título, body, imagen principal
+La aplicación debe listar, crear, editar y eliminar registros. Cada registro debe contener un título, body, imagen principal
 y galería de imágenes.
 
-
-Para correr localmente, se necesita al menos una base sqlite
 
 ```
 python manage.py makemigrations
